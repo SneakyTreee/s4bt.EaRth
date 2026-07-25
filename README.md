@@ -2,7 +2,7 @@
 
 > **Version:** 1.0  
 > **Author:** **S4bt**  
-> **Website:** [SharkByte](https://s4bt.de)
+> **Website:** [SharkByte](https://s4bt.de)   
 > **Status:** 🚧 In Development
 
 ---
