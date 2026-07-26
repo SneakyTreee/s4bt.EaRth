@@ -497,6 +497,7 @@ Feel free to use, modify, and distribute it with attribution.
 **Built with ESP32 • Designed for Automation • Ready for IoT**
 
 ⭐ _If you found this project useful, consider starring the repository on GitHub._
+
 **All texts were created with the help of AI.**
 
 </div>
