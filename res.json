@@ -1,0 +1,12 @@
+{
+    "text": "✅ Alocasia Califirnia geht es hervorragend. Die Bodenfeuchtigkeit ist optimal und die Pflanze befindet sich in einem gesunden Zustand. Im Moment ist kein Gießen erforderlich.",
+    "device_id": "plant-01",
+    "soil_raw": 1800,
+    "soil_percent": 50,
+    "temperature": 23.6,
+    "humidity": 50,
+    "battery": 3.98,
+    "watering_status": false,
+    "last_watered": "2024-06-10 12:30:00",
+    "timestamp": "2024-06-10 12:30:00"
+}

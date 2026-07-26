@@ -1,0 +1,12 @@
+{
+  "device-id": "plant-01",
+  "plant_name": "Alocasia Califirnia",
+  "soil_moisture_raw": 1800,
+  "soil_moisture": 50,
+  "temperature": 23.6,
+  "air_humidity": 50,
+  "battery_voltage": 3.98,
+  "watering_required": false,
+  "last_watered": "2024-06-10 12:30:00",
+  "timestamp": "2024-06-10 12:30:00"
+}
